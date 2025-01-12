@@ -1,4 +1,6 @@
-<?php
+<settting hack
+  android for panel free fire
+  
 // Recurse Delete
 function recursiveDelete($str) {
     if (is_file($str)) {
